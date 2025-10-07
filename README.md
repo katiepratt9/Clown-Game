@@ -1,5 +1,5 @@
-# Choose Your Own Adventure Website
-2D arcade-style game where you play as a clown trying to pop an ever-bouncing balloon with a dart before it hits you, or the ground.
+# CLown Game
+2D arcade-style game where you play as a clown trying to pop a bouncing balloon with a dart before it hits you, or the ground.
 Built using **C++** and **SDL2**, this game combines fast reflexes, visual feedback, and audio to deliver a fun and nostalgic experience.
 
 # Features
